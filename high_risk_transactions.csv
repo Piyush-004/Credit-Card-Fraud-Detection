@@ -1,0 +1,56 @@
+amount,date,card,id_merchant,id_card_holder,cardholder_name,merchant_name,merchant_category,outlier_std,outlier_iqr,outlier_iso,hour,day_of_week,is_weekend,is_early_hour,fraud_score
+1685.0000000000002,2018-01-04 03:05:18,3516952396080247,80,7,Sean Taylor,"Kelly, Dyer and Schmitt",food truck,True,True,True,3,3,False,True,4
+175.0,2018-01-07 01:10:54,344119623920892,12,18,Malik Carlson,"Bell, Gonzalez and Lowe",pub,False,True,False,1,6,True,True,3
+1029.0,2018-01-08 02:34:32,3581345943543942,145,6,Beth Hernandez,Hood-Phillips,bar,True,True,False,2,0,False,True,3
+1678.0,2018-01-23 06:29:37,501879657465,92,12,Megan Price,Garcia-White,pub,True,True,True,6,1,False,True,4
+1691.0,2018-01-24 13:17:19,4761049645711555811,14,1,Robert Johnson,Osborne-Page,coffee shop,True,True,True,13,2,False,False,3
+1430.0,2018-02-17 01:27:19,5570600642865857,71,16,Crystal Clark,Greene LLC,restaurant,True,True,True,1,5,True,True,5
+1839.0,2018-02-19 22:48:25,344119623920892,95,18,Malik Carlson,Baxter-Smith,restaurant,True,True,True,22,0,False,False,3
+1534.0,2018-03-04 15:50:53,30181963913340,118,9,Laurie Gibbs,Maldonado Group,coffee shop,True,True,True,15,6,True,False,4
+1617.0000000000002,2018-03-05 08:26:08,5570600642865857,4,16,Crystal Clark,Mccarty-Thomas,bar,True,True,True,8,0,False,False,3
+1334.0,2018-03-06 07:18:09,4319653513507,87,25,Nancy Contreras,Griffin-Woodard,bar,True,True,True,7,1,False,False,3
+1530.0,2018-03-12 00:44:01,501879657465,20,12,Megan Price,Kim-Lopez,coffee shop,True,True,True,0,0,False,True,4
+1077.0,2018-04-03 03:23:37,344119623920892,100,18,Malik Carlson,Townsend-Anderson,restaurant,True,True,False,3,1,False,True,3
+1063.0,2018-04-08 06:03:50,4319653513507,16,25,Nancy Contreras,"Bryant, Thomas and Collins",pub,True,True,False,6,6,True,True,4
+2108.0,2018-04-21 19:41:51,3581345943543942,130,6,Beth Hernandez,"Brown, Estrada and Powers",coffee shop,True,True,True,19,5,True,False,4
+1901.0,2018-05-08 13:21:01,30142966699187,108,24,Stephanie Dalton,Best Inc,restaurant,True,True,True,13,1,False,False,3
+1046.0,2018-05-13 06:31:20,4319653513507,48,25,Nancy Contreras,Baker Inc,food truck,True,True,False,6,6,True,True,4
+1203.0,2018-05-29 02:55:08,5570600642865857,62,16,Crystal Clark,"Cooper, Carpenter and Jackson",food truck,True,True,False,2,1,False,True,3
+1814.0,2018-06-03 20:02:28,344119623920892,123,18,Malik Carlson,"Boone, Davis and Townsend",pub,True,True,True,20,6,True,False,4
+1162.0,2018-06-04 03:46:15,4319653513507,96,25,Nancy Contreras,Johnson-Fuller,pub,True,True,False,3,0,False,True,3
+1795.0,2018-06-10 04:54:27,30181963913340,45,9,Laurie Gibbs,Velazquez Ltd,pub,True,True,True,4,6,True,True,5
+691.0,2018-06-17 02:45:49,30181963913340,70,9,Laurie Gibbs,White-Hall,bar,True,True,True,2,6,True,True,5
+1103.0,2018-06-17 15:59:45,5570600642865857,23,16,Crystal Clark,"Wilson, Roberts and Davenport",food truck,True,True,False,15,6,True,False,3
+1813.0,2018-06-22 06:16:50,4319653513507,40,25,Nancy Contreras,"Cox, Montgomery and Morgan",bar,True,True,True,6,4,False,True,4
+1592.0,2018-06-27 01:27:09,501879657465,136,12,Megan Price,Martinez-Robinson,bar,True,True,True,1,2,False,True,4
+121.0,2018-06-30 01:56:19,344119623920892,20,18,Malik Carlson,Kim-Lopez,coffee shop,False,True,False,1,5,True,True,3
+1398.0,2018-07-03 14:56:36,3581345943543942,8,6,Beth Hernandez,Russell-Thomas,restaurant,True,True,True,14,1,False,False,3
+1160.0,2018-07-14 06:09:18,30078299053512,136,3,Elizabeth Sawyer,Martinez-Robinson,bar,True,True,False,6,5,True,True,4
+1803.0,2018-07-26 23:02:51,5570600642865857,68,16,Crystal Clark,Ramirez-Carr,coffee shop,True,True,True,23,3,False,False,3
+1302.0,2018-07-31 05:15:17,4761049645711555811,111,1,Robert Johnson,Padilla-Clements,coffee shop,True,True,True,5,1,False,True,4
+1379.0,2018-08-05 01:06:38,3581345943543942,145,6,Beth Hernandez,Hood-Phillips,bar,True,True,True,1,6,True,True,5
+1449.0,2018-08-07 11:07:32,3516952396080247,61,7,Sean Taylor,"Richardson, Smith and Jordan",food truck,True,True,True,11,1,False,False,3
+2001.0,2018-09-02 06:17:00,3581345943543942,18,6,Beth Hernandez,Romero-Jordan,food truck,True,True,True,6,6,True,True,5
+1789.9999999999998,2018-09-04 01:35:39,4761049645711555811,43,1,Robert Johnson,Wallace and Sons,coffee shop,True,True,True,1,1,False,True,4
+626.0,2018-09-09 03:39:06,30078299053512,135,3,Elizabeth Sawyer,"Jacobs, Torres and Walker",bar,False,True,False,3,6,True,True,3
+1856.0,2018-09-11 15:16:47,3581345943543942,138,6,Beth Hernandez,Mccullough-Murphy,food truck,True,True,True,15,1,False,False,3
+1075.0,2018-09-23 19:20:23,501879657465,13,12,Megan Price,Giles and Sons,pub,True,True,False,19,6,True,False,3
+757.0,2018-10-07 14:40:34,30078299053512,73,3,Elizabeth Sawyer,Colon Ltd,bar,True,True,False,14,6,True,False,3
+1179.0,2018-10-07 18:29:20,30181963913340,106,9,Laurie Gibbs,Carter-Blackwell,pub,True,True,False,18,6,True,False,3
+1053.0,2018-10-19 01:07:37,30078299053512,10,3,Elizabeth Sawyer,Herrera Group,restaurant,True,True,False,1,4,False,True,3
+137.0,2018-10-28 02:12:58,4319653513507,16,25,Nancy Contreras,"Bryant, Thomas and Collins",pub,False,True,False,2,6,True,True,3
+1911.0,2018-11-13 17:07:25,5570600642865857,77,16,Crystal Clark,"Brown, Ballard and Glass",restaurant,True,True,True,17,1,False,False,3
+1769.0000000000002,2018-11-17 05:30:43,344119623920892,18,18,Malik Carlson,Romero-Jordan,food truck,True,True,True,5,5,True,True,5
+1054.0,2018-11-20 05:24:28,30078299053512,22,3,Elizabeth Sawyer,"Dalton, Cameron and Jones",bar,True,True,False,5,1,False,True,3
+1123.0,2018-11-25 20:44:07,501879657465,59,12,Megan Price,Williams Group,bar,True,True,False,20,6,True,False,3
+1802.0,2018-11-27 15:36:05,501879657465,70,12,Megan Price,White-Hall,bar,True,True,True,15,1,False,False,3
+1279.0,2018-11-27 17:20:29,3581345943543942,134,6,Beth Hernandez,"Jenkins, Peterson and Beck",restaurant,True,True,True,17,1,False,False,3
+1660.0000000000002,2018-11-27 17:27:34,4761049645711555811,29,1,Robert Johnson,Browning-Cantu,pub,True,True,True,17,1,False,False,3
+1014.0,2018-12-03 02:38:52,5570600642865857,64,16,Crystal Clark,"Cline, Myers and Strong",restaurant,True,True,False,2,0,False,True,3
+1894.0,2018-12-07 07:22:03,4761049645711555811,9,1,Robert Johnson,"Curry, Scott and Richardson",bar,True,True,True,7,4,False,False,3
+2249.0,2018-12-13 15:51:59,3516952396080247,83,7,Sean Taylor,Solis Group,food truck,True,True,True,15,3,False,False,3
+1296.0,2018-12-18 17:20:33,3516952396080247,87,7,Sean Taylor,Griffin-Woodard,bar,True,True,True,17,1,False,False,3
+1723.9999999999998,2018-12-19 16:10:03,30181963913340,105,9,Laurie Gibbs,Garcia and Sons,pub,True,True,True,16,2,False,False,3
+1301.0,2018-12-21 09:56:32,30142966699187,96,24,Stephanie Dalton,Johnson-Fuller,pub,True,True,True,9,4,False,False,3
+1634.0,2018-12-24 15:55:06,5570600642865857,7,16,Crystal Clark,Gomez-Kelly,pub,True,True,True,15,0,False,False,3
+1033.0,2018-12-30 23:23:09,4761049645711555811,57,1,Robert Johnson,Thornton-Williams,pub,True,True,False,23,6,True,False,3
